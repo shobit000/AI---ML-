@@ -24,11 +24,14 @@ Installation
 
 Clone the repository:
 bashCopy
+
 git clone https://github.com/shobit000/AI---ML-.git
+
 cd AI---ML-
 
 Install the required libraries:
 bashCopy
+
 pip install -r requirements.txt
 
 Data
@@ -43,10 +46,12 @@ python preprocess.py
 
 Train the model:
 bashCopy
+
 python train.py
 
 Evaluate the model:
 bashCopy
+
 python evaluate.py
 
 Contributing
